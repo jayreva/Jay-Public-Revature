@@ -183,7 +183,7 @@ import java.util.Scanner;
 					}
 				} else if (menuSelection == 2) {
 					System.out.println("Type volume input units: ");
-					System.out.println("tsp\ttbsp\tcup\tgallon\tft^3\tmilliliter\tliter");
+					System.out.println("tsp\ttbsp\tcup\tgallon\tcubic feet\tmilliliter\tliter");
 					volSelection = scanner.nextLine();
 					//System.out.println(lengthSelection);
 					System.out.println("Enter volume value");
